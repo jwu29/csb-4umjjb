@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://jwu29.github.io/csb-4umjjb/static/css/main.1340ab99.chunk.css",
+    "main.js": "https://jwu29.github.io/csb-4umjjb/static/js/main.bc128e39.chunk.js",
+    "main.js.map": "https://jwu29.github.io/csb-4umjjb/static/js/main.bc128e39.chunk.js.map",
+    "runtime-main.js": "https://jwu29.github.io/csb-4umjjb/static/js/runtime-main.7d884e47.js",
+    "runtime-main.js.map": "https://jwu29.github.io/csb-4umjjb/static/js/runtime-main.7d884e47.js.map",
+    "static/js/2.0c8855e7.chunk.js": "https://jwu29.github.io/csb-4umjjb/static/js/2.0c8855e7.chunk.js",
+    "static/js/2.0c8855e7.chunk.js.map": "https://jwu29.github.io/csb-4umjjb/static/js/2.0c8855e7.chunk.js.map",
+    "index.html": "https://jwu29.github.io/csb-4umjjb/index.html",
+    "static/css/main.1340ab99.chunk.css.map": "https://jwu29.github.io/csb-4umjjb/static/css/main.1340ab99.chunk.css.map",
+    "static/js/2.0c8855e7.chunk.js.LICENSE.txt": "https://jwu29.github.io/csb-4umjjb/static/js/2.0c8855e7.chunk.js.LICENSE.txt",
+    "static/media/Who_wants_to_be.png": "https://jwu29.github.io/csb-4umjjb/static/media/Who_wants_to_be.e97b9f4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d884e47.js",
+    "static/js/2.0c8855e7.chunk.js",
+    "static/css/main.1340ab99.chunk.css",
+    "static/js/main.bc128e39.chunk.js"
+  ]
+}
